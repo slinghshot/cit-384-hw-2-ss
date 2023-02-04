@@ -12,4 +12,6 @@
 
 ## ← lab_instructions.txt
 
-Start there. 
+-outline.html contains outline of structure.html
+-assets folder contains the diagram for structure.html
+
